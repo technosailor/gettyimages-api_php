@@ -18,12 +18,12 @@
         "source": "https://github.com/gettyimages/gettyimages-api_php"
     },
     "require": {
-        "php": ">=7.0",
-        "php-di/php-di": "^5.4
+        "php": ">=8.0",
+        "php-di/php-di": "^5.4"
     },
     "require-dev" : {
         "phine/phar": "~1.0",
-        "phpunit/phpunit": "^6"
+        "phpunit/phpunit": "^9.4"
     },
     "autoload" : {
         "psr-4" : {
